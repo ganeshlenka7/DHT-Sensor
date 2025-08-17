@@ -36,4 +36,4 @@ It prints the values to the Serial Monitor every 2 seconds.
 
 Circuit diagram
 
-![DHT sensor circuit diagram](DHT.png)
+![DHT sensor circuit diagram](DHT%20Sensor.png)
